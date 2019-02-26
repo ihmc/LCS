@@ -1,4 +1,4 @@
-# LCS: Bonnie Dorr's LCS Database
+# LCS: Bonnie Dorr's Lexical Conceptual Structures Database
 
 The LCS data is stored in file verbs-English.lcs.
 
