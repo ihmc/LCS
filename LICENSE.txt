@@ -1,0 +1,61 @@
+COPYRIGHT NOTICE
+
+© 2018, 2019, Bonnie Dorr, Florida Institute for Human and Machine 
+Cognition
+(derivative of LCS Database, © 2000, 2001 University of Maryland at 
+http://users.umiacs.umd.edu/~bonnie/Demos/verbs-English.lcs)
+The LCS database is open source, licensed under the GNU General Public 
+License (http://www.gnu.org/licenses/gpl-2.0.html.) Note that this is 
+the full GPL, which allows many free uses, but does not allow its 
+incorporation (even in part or in translation) into any type of 
+proprietary software which you distribute.
+All Rights Reserved
+
+This file contains the LCS Database, produced by researchers 
+in the Computational Linguistics and Information Processing
+Laboratory, University of Maryland, directed by Bonnie J. Dorr,
+copyright (c) University of Maryland, 2000, 2001.  Any work, 
+published or unpublished, based in whole or in part on the
+use of this resource should acknowledge the "LCS Database" 
+by Bonnie J. Dorr at the University of Maryland.  The author 
+would appreciate being informed of such work or other 
+significant uses of this database: bonnie@umiacs.umd.edu
+
+Distribution of this database is permissible as long as this
+copyright notice below and the description and acknowledgements below 
+stay in tact.  
+
+The "LCS Database" contains Lexical conceptual Structures built by
+hand by Dorr in 1994, organized into semantic classes that are a
+reformulated version of those in Beth Levin (1993) English Verb 
+Classes and Alternations (EVCA), Part 2.  For a contrastive 
+classification, see Levin's index at:
+ http://www.umich.edu/~archive/linguistics/texts/indices/evca93.index
+The LCS Database was hand-tagged with WordNet on a per-class basis,
+using the 1.6 version of WordNet {Fellbaum, 1998).  The resulting
+database was further extended to include 26 new classes (Dorr, 1996,
+1997), and adding 3000 WordNet-tagged verbs.  Additional contributions
+to this database were made in collaboration with Douglas Jones (Dorr
+and Jones, 1999) and the classes were further refined by Mari Olsen
+(Olsen et al. 1997) so that they contain semantic representation that
+indicate verbal telicity patterns.  Levin's original database
+contained 3024 verbs in 192 classes numbering between 9.1 and 57---a
+total of 4186 verb entries. The augmented database contains 4432 verbs
+in 492 classes with more specific numbering (e.g., ``51.3.2.a.ii'')
+and additional class numbers for new classes (between 000 and 026)---a
+total of 11000 verb entries.  The verbs in the "LCS Database" is
+alternately referred to as EVCA+ in some recent publications (Green et
+al, 2001a, 2001b).
+
+The latest version of the LCS Database contains a set of argument 
+frames that conform to the style of those adopted in the PropBank
+effort at the University of Pennsylvania (Palmer et al., 2001).
+
+The LCS Database has been used extensively in the dissertation work 
+of Scott Thomas and Nizar Habash.  Relevant citations are given below.
+
+We would like to thank Julie Dahmer, Charles Lin, and David
+Woodard for their WordNet annotations which we used here.  We
+would also like to thank Karen Kohl for her annotations of the
+verbs in Part 1 of Levin's work, which we used to give hints for
+annotating these verbs of Part 2.
